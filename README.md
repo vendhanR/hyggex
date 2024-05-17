@@ -3,11 +3,12 @@
 Instructions on setting up and running this project.
 
 1. Clone the Repository:
-  git clone githup.com/vendhanR/hyggex
+  git clone https://github.com/vendhanR/hyggex.git
+
   cd <repository_directory>
 
-2. Install Dependencies:
+3. Install Dependencies:
    npm install
 
-3. Start the Development Server:
+4. Start the Development Server:
     npm run dev   
